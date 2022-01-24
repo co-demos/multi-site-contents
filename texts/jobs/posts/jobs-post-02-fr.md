@@ -60,7 +60,7 @@ Vous serez intégré·e dans une équipe comprenant :
 
 1. Envoyez-nous un CV, un lien vers vos repos, mais parlez-nous surtout de vos réalisations ou contributions publiées en open source, des projets que vous avez dirigés et dont vous êtes le·la plus fier·ère !
 2. Pré-sélection et entretien avec le product owner 
-3. Entretien avec les associés de la coopérative
+3. Entretien avec les associé·e·s de la coopérative
 4. Embarquement avec l'équipe projet
 
 📥 &nbsp; [**contact@multi.coop**](mailto:contact@multi.coop)
